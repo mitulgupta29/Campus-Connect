@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mitul Gupta",
+    "branch": "IPM",
+    "skills": ["Marketing", "Design", "Public Speaking"],
+    "interests": ["Startups", "Social Impact"],
+    "goals": "Build a startup in ed-tech space"
+  },
+  {
+    "name": "Shivam Pandey",
+    "branch": "IPM",
+    "skills": ["Finance", "Excel", "Analytics"],
+    "interests": ["Fintech", "Stock Market"],
+    "goals": "Become an Investment Banker"
+  },
+  {
+    "name": "Aahil Khan",
+    "branch": "IPM",
+    "skills": ["Programming", "Python", "AI"],
+    "interests": ["Tech", "Entrepreneurship"],
+    "goals": "Develop AI solutions for businesses"
+  }
+]

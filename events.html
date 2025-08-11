@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Events - Campus Connect</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <header>
+    <div class="navbar">
+      <div class="logo">Campus Connect</div>
+      <div class="hamburger" id="hamburger">&#9776;</div>
+
+      <nav id="navLinks">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a href="events.html">Events</a></li>
+          <li><a href="matching.html">Matching</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="events">
+      <h2>Upcoming Events</h2>
+
+      <label for="categoryFilter">Filter by Category:</label>
+      <select id="categoryFilter">
+        <option value="All">All</option>
+        <option value="Academic">Academic</option>
+        <option value="Cultural">Cultural</option>
+        <option value="Placement">Placement</option>
+      </select>
+
+      <div id="eventList">
+        <!-- Events will be loaded by JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Campus Connect | Developed by IPM Students</p>
+  </footer>
+
+  <script src="js/events.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

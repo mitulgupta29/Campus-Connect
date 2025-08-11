@@ -1,0 +1,20 @@
+[
+  {
+    "subject": "Marketing",
+    "type": "Notes",
+    "title": "Marketing Basics",
+    "file": "assets/docs/marketing-notes.pdf"
+  },
+  {
+    "subject": "Economics",
+    "type": "Project Report",
+    "title": "Indian Economy Overview",
+    "file": "assets/docs/economy-report.pdf"
+  },
+  {
+    "subject": "Accounting",
+    "type": "Sample Assignment",
+    "title": "Balance Sheet Analysis",
+    "file": "assets/docs/accounting-assignment.pdf"
+  }
+]

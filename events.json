@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Resume Building Workshop",
+    "date": "2025-09-01",
+    "time": "5:00 PM",
+    "venue": "Online - Zoom",
+    "description": "Improve your resume for placement season with expert guidance.",
+    "category": "Placement"
+  },
+  {
+    "title": "Ganesh Chaturthi Celebration",
+    "date": "2025-09-10",
+    "time": "6:30 PM",
+    "venue": "Campus Auditorium",
+    "description": "Join us for cultural performances and festivities.",
+    "category": "Cultural"
+  },
+  {
+    "title": "Guest Lecture: Economics in Real World",
+    "date": "2025-09-15",
+    "time": "3:00 PM",
+    "venue": "Academic Block A, Room 205",
+    "description": "Insights from industry experts on applied economics.",
+    "category": "Academic"
+  }
+]
